@@ -1,0 +1,6 @@
+{
+  "name": "RAG Architecture Blueprint",
+  "description": "Production-ready RAG application architecture, folder structure, dependency map, and workflow specification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

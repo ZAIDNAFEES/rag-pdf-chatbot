@@ -1,0 +1,26 @@
+# Environment & Secrets
+.env
+.env.local
+.env.*
+!.env.example
+
+# Python & Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.pytest_cache/
+
+# Node & Build Artifacts
+node_modules/
+build/
+dist/
+coverage/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+*.log

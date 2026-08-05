@@ -1,0 +1,17 @@
+# Core Web Frameworks
+fastapi>=0.110.0
+uvicorn>=0.28.0
+streamlit>=1.32.0
+
+# Document Processing & PDF Parsing
+PyMuPDF>=1.23.0
+
+# Vector Database Client
+qdrant-client>=1.8.0
+
+# HTTP Requests & API Client
+requests>=2.31.0
+pydantic>=2.6.0
+
+# Utilities & Environment Configuration
+python-dotenv>=1.0.0
